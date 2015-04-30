@@ -1,0 +1,17 @@
+{
+  "name": "welke-i18n",
+  "version": "1.0.0",
+  "main": "locales/angular-locale_nl.js",
+  "ignore": [],
+  "homepage": "https://github.com/Welke/welke-i18n",
+  "_release": "1.0.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "1.0.0",
+    "commit": "21fe601929c41274e4908fff23fa9fa2d1ecee78"
+  },
+  "_source": "git://github.com/Welke/welke-i18n.git",
+  "_target": "~1.0.0",
+  "_originalSource": "welke-i18n",
+  "_direct": true
+}

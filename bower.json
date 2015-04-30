@@ -1,0 +1,6 @@
+{
+  "name": "welke-i18n",
+  "version": "1.0.0",
+  "main": "locales/angular-locale_nl.js",
+  "ignore": []
+}
